@@ -1,4 +1,3 @@
-# Shopping Analysis
 # 🛍️ Shopping Analysis Project
 
 ## 📊 Overview
@@ -58,4 +57,4 @@ This analysis helps in identifying:
 
 ---
 
-> Built with ❤️ by [Your Name]
+> Built with ❤️ by [Mohamed mostafa]
